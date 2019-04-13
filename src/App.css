@@ -1,6 +1,35 @@
 .App {
   text-align: center;
 }
+.Images{
+  display:inline-block;
+  margin-left:55px;
+  font-size:large;
+  margin-bottom:25px;
+}
+.Border-Image{
+  border:5px solid black;
+  margin:0;
+  padding:0;
+}
+.Search{
+  margin-left:50px;
+  width:1000px;
+}
+.Images-div{
+    border-top:5px solid black;
+}
+.Images-title{
+  margin-top:50px;
+  border-top:5px solid black;
+}
+.Bar{
+  margin-top:35px;
+  margin-left:70px;
+}
+.oboji{
+  outline:1px solid blue;
+}
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;

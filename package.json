@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.3.1",
+    "history": "^4.9.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -21,5 +26,14 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "ApiSettings": {
+    "key": "6b6b4a0343c37e84451017f4ddbcb6b5",
+    "image-url": "http://image.tmdb.org/t/p/",
+    "poster-size": "w500",
+    "backdrop_path": "w1280"
+  },
+  "devDependencies": {
+    "react-redux": "^7.0.2"
+  }
 }
