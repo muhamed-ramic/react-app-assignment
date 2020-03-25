@@ -1,6 +1,8 @@
 To run the application:
 
-1)Install the neccessaries node modules
-2)Change the api key provided in package.json to yours
-3)Run the development server
-4)TEST---||---
+* Install the neccessaries node modules
+* Change the api key provided in package.json to yours
+* Run the development server
+* TEST
+
+Or visit the staging url : **http://null-appliance.surge.sh/**
