@@ -1,3 +1,14 @@
+# Top 10 shows/movies preview
+
+## Tech stack: 
+- ReactJS
+- Redux
+
+### Work highlight: 
+- Preview tv shows/movies
+- Search by name
+- Movie details
+
 To run the application:
 
 * Install the neccessaries node modules
